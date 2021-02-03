@@ -20,13 +20,3 @@ Fablix is a mock e-commerce site for movies. It contains over 10,000's movie tit
  * Advanced searching movies by title, star, director, and/or year.
  
  * A basic mobile app companion where users can search the title of a movie to see if it is available on the site.
- 
-# Planned features to add during July 2020
-
-* User creation. Currently the only way to access the site is through the accounts created and added in the MySQL database.
-
-* Movie/star deletion on employees dashboard.
-
-* Multiple levels of employees to allow for different permissions. For example, one type to allow movie/star deletion, and another type to view customer records.
-
-* Change cart from session only to account.
